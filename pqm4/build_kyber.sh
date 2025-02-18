@@ -1,0 +1,1 @@
+make PLATFORM=stm32f4discovery IMPLEMENTATION_PATH=crypto_kem/kyber512/m4 bin/crypto_kem_kyber512_m4_test.bin
